@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-  # 文件编码为 UTF-8
-# NEU 场地监控脚本 - GUI 版，配置自动保存，实时日志输出到界面和文件
+# 东北大学羽毛球场地监控脚本 - GUI 版，配置自动保存，实时日志输出到界面和文件
 import os
 import time
 import threading
